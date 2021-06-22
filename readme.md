@@ -1,5 +1,5 @@
 # K Nearest Neighbour with cross validation.
-## Daniel Pullon
+### Author: Daniel Pullon
 
 ## Arguments
 ### There are 2 OPTIONAL arguments that can be supplied to the program.
