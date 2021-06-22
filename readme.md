@@ -1,7 +1,6 @@
 # K Nearest Neighbour with cross validation.
 ### Author: Daniel Pullon
 
-## Arguments
 ### There are 2 OPTIONAL arguments that can be supplied to the program.
 
 1. int - Number for kNearest. Default is 3
