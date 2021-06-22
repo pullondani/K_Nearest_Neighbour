@@ -1,4 +1,4 @@
-# K Nearest Neighbour with cross validation.
+# K Nearest Neighbour with Cross Validation.
 ### Author: Daniel Pullon
 
 ### There are 2 OPTIONAL arguments that can be supplied to the program.
